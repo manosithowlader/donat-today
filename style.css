@@ -1,0 +1,151 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.color {
+    color: white;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.manosit {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px 300px;
+    margin-bottom: 100px;
+
+}
+
+.manosit2 {
+    text-align: center;
+    padding: 10px 300px;
+}
+
+.flex {
+    display: flex;
+    font-size: 30px;
+    margin-left: 30%;
+    margin-right: 50%;
+    margin-bottom: 50px;
+}
+
+.half-width {
+    margin: 2%;
+    padding: 5%;
+    background-color: rgb(228, 213, 194);
+}
+
+#black {
+    border: 5px solid tomato;
+    background-color: hotpink;
+}
+
+.ptag {
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+#taka {
+    margin-bottom: 30px;
+    border-bottom: 2px solid gray;
+}
+
+.our {
+    text-align: center;
+    margin: 3%;
+}
+
+.flexible-container {
+    display: flex;
+    margin: 100px;
+}
+
+.helf-width {
+    margin: 3%;
+    background-color: bisque;
+    padding: 10px;
+}
+
+#mm {
+    background-color: lightblue;
+}
+
+#ss {
+    background-color: lightpink;
+}
+
+.aaa {
+    display: flex;
+    margin: 5%;
+}
+
+.sun {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.sun img {
+    width: 90%;
+}
+
+.moon {
+    display: flex;
+    margin: 5%;
+}
+
+.top {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.top img {
+    width: 90%;
+}
+
+#mam {
+    font-size: 60px;
+}
+
+.bb {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+}
+
+form {
+    margin-left: 42%;
+    margin-bottom: 10%;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+}
+
+.pp {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: 700;
+}
